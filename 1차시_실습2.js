@@ -22,3 +22,5 @@ console.log(typeof height);  // number
 console.log(typeof gender);   // undefined
 
 console.log(typeof member);   // object 
+
+
