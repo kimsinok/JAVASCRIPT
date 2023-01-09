@@ -1,1 +1,1 @@
-# JAVASCRIPT(ES5) 강의자료입니다.
+# JAVASCRIPT(ES6) 강의자료입니다.
