@@ -23,3 +23,5 @@ const total = (x, y) => x + y;
 // 함수 호출
 console.log(total(1, 5));  // 6
 
+
+
