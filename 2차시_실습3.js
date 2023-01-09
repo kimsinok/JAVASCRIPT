@@ -33,3 +33,4 @@ console.log(Counter.getCurrentValue());  // 2
 Counter.decreaseValue();
 console.log(Counter.getCurrentValue());  // 1
 
+
