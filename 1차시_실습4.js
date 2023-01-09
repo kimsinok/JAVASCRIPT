@@ -25,3 +25,4 @@ copy.x = 10;
 console.log(src.x);  // 10
 
 console.log(copy.x);  // 10
+
