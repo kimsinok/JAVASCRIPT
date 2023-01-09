@@ -22,3 +22,4 @@ calcurate(1, 2, add);  // 3
 calcurate(1, 2, sub);  // -1
 
 calcurate(1, 2, mul);  // 2
+
