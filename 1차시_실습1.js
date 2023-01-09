@@ -1,3 +1,4 @@
+
 var str = 'Hello, javascript';
 
 var str = 'Hi, javascript';
