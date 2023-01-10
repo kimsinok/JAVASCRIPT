@@ -1,23 +1,28 @@
 
-// 블록 레벨 스코프
 
-console.log(x);   // undefined
+// 변수 호이스팅
 
-var x = 1;
+function hello(name) {
 
-console.log(x);   // 1
+     console.log(msg);  // undefined
+
+     var msg = 'Hello, ';
+
+     console.log(msg + name);  // Hello, kim
+
+     /*
+          var msg = undefined;
+
+          console.log(msg);  // undefined
+
+          msg = 'Hello, ';
+
+          console.log(msg + name);  // Hello, kim
+
+     */
+
+}
 
 
-/*
-     var x = undefined;
-
-     console.log(x);
-
-     x = 1;
-
-     console.log(x);
-     
-*/
-
-
+hello('kim');
 
