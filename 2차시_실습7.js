@@ -36,3 +36,4 @@ console.log(inc());  // 1
 console.log(inc());  // 2
 console.log(inc());  // 3
 console.log(inc());  // 4
+
