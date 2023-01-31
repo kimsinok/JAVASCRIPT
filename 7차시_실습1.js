@@ -1,3 +1,9 @@
+
+/*
+ * 메소드 중복
+ */
+
+
 // 생성자 함수
 
 function Circle(radius) {
